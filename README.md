@@ -1,28 +1,20 @@
+<b>Hey there 👋</b>
 
-<h2> Hi, I'm Ashley Olubanjo! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/LkZn0zTpjnpGxEeDRU/giphy.gif" width="230">
+I’m Ashley, a Frontend-focused software engineer based in the UK.
 
-[![Linkedin: ashley-olubanjo](https://img.shields.io/badge/-ashleyolubanjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-olubanjo/)](https://www.linkedin.com/in/ashley-olubanjo/)
-[![GitHub Ashley-alt](https://img.shields.io/github/followers/Ashley-alt?label=follow&style=social)](https://github.com/Ashley-alt)
+I’m focused on building and improving my frontend skills.
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+If I want to understand something better, I’ll usually build it and ship it.
 
+My main tech stack is React and TypeScript, with a growing focus on CSS and UI work.  
 
-class FullStackDeveloper:
+I’m currently revamping my GitHub after some time away and using it to build consistently and learn in public.
 
-    def __init__(self):
-        self.name = "Ashley Olubanjo"
-        self.role = "Front-end Developer"
-        self.language_spoken = ["en_UK"]
-        self.tools = ["Javascript","React","Python", "SQL"]
+You’ll find a mix of small frontend projects, experiments, and practice apps here.  
+Check out the pinned repositories below.
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = FullStackDeveloper()
-me.say_hi()
-```
-<img src="https://media.giphy.com/media/0T3nHwbIcF5UbNedrP/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+Fun facts:
+- I like the Gym
+- I enjoy photography and visual storytelling  
+- I like building things from scratch
+- Anime is my guilty pleasure 
