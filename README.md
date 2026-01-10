@@ -1,6 +1,6 @@
 <b>Hey there 👋</b>
 
-I’m Ashley, a Frontend-focused software engineer based in the UK.
+I’m Ashley, a software engineer based in the UK.
 
 I’m focused on building and improving my frontend skills.
 
